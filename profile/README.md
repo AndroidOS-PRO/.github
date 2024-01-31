@@ -1,2 +1,3 @@
 - [Bliss OS Realeses](https://github.com/AndroidOS-PRO/BlissOS/releases)
 - [initrd-magisk Realeses](https://github.com/AndroidOS-PRO/initrd-magisk/releases)
+- [GApps for Android TV Realeses](https://github.com/AndroidOS-PRO/MindTheGapps_Android_TV/releases)
